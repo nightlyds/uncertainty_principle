@@ -103,7 +103,7 @@ void displacement_fun()
             cout << "It`s not correct number" << endl;
         }
     }
-    cout << "Has the displacemenet degree? (1 or 2)?" << endl;
+    cout << "Has the displacement degree? (1 or 2)?" << endl;
     int answer;
     cin >> answer;
     if (answer == 1)
